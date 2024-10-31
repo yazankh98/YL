@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h2>yazan & Lilo websit.. <br />
+      <h2 >yazan & Lilo websit.. <br />
         <b>SOON...❤</b>
       </h2>
     </>
