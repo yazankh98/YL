@@ -3,9 +3,11 @@ function App() {
 
   return (
     <>
-      <h2 >yazan & Lilo websit.. <br />
-        <b>SOON...❤</b>
-      </h2>
+      <div className="wlc">
+        <h2 >yazan & Lilo websit.. <br />
+          <b>SOON...❤</b>
+        </h2>
+      </div>
     </>
   )
 }
