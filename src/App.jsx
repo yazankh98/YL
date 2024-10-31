@@ -3,9 +3,9 @@ function App() {
 
   return (
     <>
-  <h4>yazan & Lilo websit..
-    SOON..
-  </h4>
+      <h2>yazan & Lilo websit.. <br />
+        <b>SOON..</b>
+      </h2>
     </>
   )
 }
